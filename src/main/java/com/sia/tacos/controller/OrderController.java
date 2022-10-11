@@ -1,4 +1,4 @@
-package com.sia.tacos.web;
+package com.sia.tacos.controller;
 
 import com.sia.tacos.service.TacoOrder;
 import lombok.extern.slf4j.Slf4j;
